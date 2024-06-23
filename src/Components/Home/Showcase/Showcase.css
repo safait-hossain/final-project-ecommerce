@@ -1,0 +1,26 @@
+.showcase-right > img {
+    height: 50px;
+    width: 100px;
+}
+.showcase-left {
+    object-fit: cover;
+    
+}
+.caption {
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-to-cart-btn {
+    border: none;
+    background-color: transparent;
+    font-weight: 600;
+}
+
+.add-to-cart-btn:hover {
+    opacity: 0.7;
+}
+
+.title-price > h5 {
+    text-align: left !important;
+}

@@ -1,0 +1,23 @@
+.cart {
+    margin: 2rem auto;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .cart-items {
+    flex: 0.7;
+    margin-right: 1rem;
+  }
+
+  .cart-summary {
+    height: 600px;
+  }
+  
+  .cart-summary-item {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+  }
+  
+  
